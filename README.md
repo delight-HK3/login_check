@@ -3,6 +3,7 @@
 >사용한 언어 : php5, css3, javascript, SQL<br>
 >사용한 DB : MariaDB<br>
 >사용한 DBMS : phpMyAdmin<br>
+>사용한 서버 : apache server
 >사용한 Tool : Visual Studio Code<br>
 <br>
 
