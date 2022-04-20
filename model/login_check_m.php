@@ -1,4 +1,6 @@
 <?php
+if (!defined('BASEPATH')) exit('No direct script access allowed');
+
 class Login_check_m extends CI_Model {
     public function getrow($uid,$pwd){
         $sql="select * from member where uid like '$uid' and pwd like '$pwd'"; 
