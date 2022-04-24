@@ -31,4 +31,4 @@
     <img src="https://user-images.githubusercontent.com/74585673/154596135-52dde08f-edc1-4c8c-9a7e-28493161f770.PNG">
 </kbd>
 <br><br>
-<a href="https://juniorprogram.tistory.com/56">login_check_Peristalsis 설명 포스트</a>
+<a href="https://juniorprogram.tistory.com/56">login check 설명 포스트</a>
